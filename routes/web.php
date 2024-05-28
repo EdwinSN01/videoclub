@@ -3,7 +3,7 @@
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
-    return view('home', array('nombre'=>'Kevin RG'));
+    return view('home', array('nombre'=>'Edwin SN'));
     //return 'Pantalla principal';
 });
 
